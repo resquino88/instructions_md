@@ -1,13 +1,14 @@
 # How to Run Python Scripts on a Windows Machine
 
-Description:
+### Description:
+
 Python is one of many programming languages (Java, C++, Lua, R, etc) and is the most commonly used due to its simplicity and widespread use across fields such as Computer Science, Data Science, and Engineering. It is considered a scripting language, which means it is used when a redundant task needs to be done. Many scientists and engineers make use of its various libraries (prewritten code) aid in research and/or meet client/customer needs.
 
-Prerequisites:
+### Prerequisites:
 * Visual Studio Code (https://code.visualstudio.com/download)
 * A computer with Windows
 
-Step #1: Download Python
+### Step #1: Download Python
 * Download Python via https://www.python.org/downloads/
 * Scroll down and click a version to download
 ![Alt text](1.png)
