@@ -54,13 +54,20 @@ print(“Hello World”)
 ![Alt text](9.png)
 * To update and save the file, either press Control + S on the keyboard or "File" -> "Save"
 ![Alt text](10.png)
-Step through how to get to file
-	Trust
-Open file and add print(“Hello World”)
-	Control S or File Save
-Copy and Paste file path to CMD
-cd C:\Users\resqu\OneDrive\Desktop\hello_world.py 
-cd C:\Users\resqu\OneDrive\Desktop
+
+### Step #8: Copy and paste file path into the CMD
+* In VS Code, right click the file name and select "Copy Path"
+![Alt text](11.png)
+* Reopen the CMD and type the following command:
+~~~~
+cd COPIED_FILE_PATH
+~~~~
+![Alt text](12.png)
+> Remove \hello_world.py from the end of your command once pasted. For example: 
+~~~~
+cd C:\Users\resqu\OneDrive\Desktop\hello_world.py --> cd C:\Users\resqu\OneDrive\Desktop
+~~~~
+> In order to paste the copied file path into the CMD, right click in the CMD. If it is not pasting, copy the path again from VS Code.
 
 Go to CMD run python hello_world.py
 
