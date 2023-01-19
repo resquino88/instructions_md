@@ -40,10 +40,19 @@ Python is one of many programming languages (Java, C++, Lua, R, etc) and is the 
 
 ### Step #6: Open file in VS Code
 * Click "File" -> "Open File"
+
 ![Alt text](7.png)
 * Locate "Desktop" on the left side and select it. Once selected, find "hello_world.py" select it and click open.
 ![Alt text](8.png)
+> If prompted to trust the files, select "Trust" and continue
 
+### Step #7: Writing a Python command
+* Copy the following code into hello_world.py
+~~~~
+print(“Hello World”)
+~~~~
+* To update and save the file, either press Control + S on the keyboard or "File" -> "Save"
+![Alt text](9.png)
 Step through how to get to file
 	Trust
 Open file and add print(“Hello World”)
