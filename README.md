@@ -15,14 +15,19 @@ Python is one of many programming languages (Java, C++, Lua, R, etc) and is the 
 * Select one of the two highlighted installers
 ![Alt text](2.png)
 
-Step #2: Setup Python
-Open downloaded .exe file
-Install Now
-Allow access
-Wait and click close
+### Step #2: Setup Python
+* Open downloaded installer file (.exe)
+* Click Install Now
+* Allow access for the installer to make changes
+* Wait and click close once installer has completed
 
+### Step #3: Open CMD and Test Python Download
+* In the Windows search feature (bottom left corner) search "CMD" and click it to open the application
+![Alt text](3.png)
+* Type 'python' into the CMD and press the Enter/Return key
+![Alt text](4.png)
+> After running the 'python' command, the result should be similar to the above picture. If not, ensure Step #1 and Step #2 were done properly.
 
-Open CMD and test python
 Create Python script on desktop called hello_world.py
 	Message about warning (Yes)
 Open VS Code
