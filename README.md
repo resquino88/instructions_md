@@ -32,9 +32,11 @@ Python is one of many programming languages (Java, C++, Lua, R, etc) and is the 
 * On your desktop, right-click and select "New" -> "Text Document"
 ![Alt text](5.png)
 * Completely rename the file to **hello_world.py**
-> The file extension should not be a .txt file. If a message appears saying that the file might become unusable, click yes. This message ensures that file was renamed correctly. 
+> The file extension should not be a .txt file. If a message appears saying that the file might become unusable, click "Yes". This message guarantees that file was renamed correctly. 
 
-Open VS Code
+### Step #5: Open VS Code
+* In the Windows search feature (bottom left corner) search "Visual Studio Code" and click it to open the application
+
 Step through how to get to file
 	Trust
 Open file and add print(“Hello World”)
