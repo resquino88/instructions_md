@@ -21,14 +21,14 @@ Python is one of many programming languages (Java, C++, Lua, R, etc) and is the 
 * Allow access for the installer to make changes
 * Wait and click close once installer has completed
 
-### Step #3: Open CMD and Test Python Download
+### Step #3: Open CMD and test Python download
 * In the Windows search feature (bottom left corner) search "CMD" and click it to open the application
 ![Alt text](3.png)
 * Type 'python' into the CMD and press the Enter/Return key
 ![Alt text](4.png)
 > After running the 'python' command, the result should be similar to the above picture (ignore the numbers). If not, ensure Step #1 and Step #2 were done properly.
 
-### Step #4: Create a Python Script on Desktop
+### Step #4: Create a Python script on Desktop
 * On your desktop, right-click and select "New" -> "Text Document"
 ![Alt text](5.png)
 * Completely rename the file to **hello_world.py**
@@ -36,6 +36,13 @@ Python is one of many programming languages (Java, C++, Lua, R, etc) and is the 
 
 ### Step #5: Open VS Code
 * In the Windows search feature (bottom left corner) search "Visual Studio Code" and click it to open the application
+![Alt text](6.png)
+
+### Step #6: Open file in VS Code
+* Click "File" -> "Open File"
+![Alt text](7.png)
+* Locate "Desktop" on the left side and select it. Once selected, find "hello_world.py" select it and click open.
+![Alt text](8.png)
 
 Step through how to get to file
 	Trust
