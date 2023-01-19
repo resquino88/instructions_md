@@ -1,13 +1,6 @@
-# How to Select the Right Hockey Stick
+# How to Run Python Scripts on a Windows Machine
 
-When trying to select a hockey stick, it is crucial to find the one that fits your needs
-Height
-Weight
-Grip or No-Grip
-Curve
-  Open or Closed
-  Heel/Mid/Toe
-Flex
-Kick-Point
-Lie
-Brand
+Description:
+Python is one of many programming languages (
+
+Dowan
