@@ -26,10 +26,14 @@ Python is one of many programming languages (Java, C++, Lua, R, etc) and is the 
 ![Alt text](3.png)
 * Type 'python' into the CMD and press the Enter/Return key
 ![Alt text](4.png)
-> After running the 'python' command, the result should be similar to the above picture. If not, ensure Step #1 and Step #2 were done properly.
+> After running the 'python' command, the result should be similar to the above picture (ignore the numbers). If not, ensure Step #1 and Step #2 were done properly.
 
-Create Python script on desktop called hello_world.py
-	Message about warning (Yes)
+### Step #4: Create a Python Script on Desktop
+* On your desktop, right-click and select "New" -> "Text Document"
+![Alt text](5.png)
+* Completely rename the file to **hello_world.py**
+> The file extension should not be a .txt file. If a message appears saying that the file might become unusable, click yes. This message ensures that file was renamed correctly. 
+
 Open VS Code
 Step through how to get to file
 	Trust
