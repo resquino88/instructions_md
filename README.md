@@ -62,15 +62,20 @@ print(“Hello World”)
 ~~~~
 cd COPIED_FILE_PATH
 ~~~~
+> In order to paste the copied file path into the CMD, right click in the CMD. If it is not pasting, copy the path again from VS Code.
 ![Alt text](12.png)
 > Remove \hello_world.py from the end of your command once pasted. For example: 
 ~~~~
 cd C:\Users\resqu\OneDrive\Desktop\hello_world.py --> cd C:\Users\resqu\OneDrive\Desktop
 ~~~~
-> In order to paste the copied file path into the CMD, right click in the CMD. If it is not pasting, copy the path again from VS Code.
 
-Go to CMD run python hello_world.py
-
+### Step #9: Run the Python script
+* In the CMD, type the following command:
+~~~~
+python hello_world.py
+~~~~
+![Alt text](14.png)
+> Once completed, the output should be similar to the picture above.
 
 
 
