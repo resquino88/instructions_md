@@ -74,6 +74,7 @@ cd C:\Users\resqu\OneDrive\Desktop\hello_world.py --> cd C:\Users\resqu\OneDrive
 ~~~~
 python hello_world.py
 ~~~~
+
 ![Alt text](14.png)
 > Once completed, the output should be similar to the picture above.
 
